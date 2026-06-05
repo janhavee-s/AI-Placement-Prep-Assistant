@@ -1,5 +1,8 @@
 # AI Placement Prep Assistant
+
 https://ai-placement-prep-assistant-y2gmflwd75uhbi5ikedqxy.streamlit.app/
+
+https://youtu.be/YXIOS2ipTkk?si=SmJLu4uj16OKwV9k
 
 ## Overview
 
